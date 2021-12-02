@@ -1,0 +1,49 @@
+body {
+  width: auto;
+  height: auto;
+}
+
+header {
+  width: auto;
+  margin: 50px;
+  padding: 2em;
+  color: red;
+  border: 5px solid red;
+  background-color: black;
+  text-align: center;
+}
+
+nav {
+  margin: auto;
+  padding: 2em;
+  border: 5px double blue;
+  text-align: center;
+}
+
+section {
+  border: 15px;
+  border-style: groove;
+  margin: 50px;
+  text-align: center;
+}
+
+article {
+  margin: 1em;
+  width: auto;
+  border: 5px;
+  border-style: groove;
+}
+
+aside {
+  margin: 1em;
+  width: auto;
+  border: 5px;
+  border-style: groove;
+}
+
+footer {
+  border: 5px;
+  border-color: greenyellow;
+  border-style: ridge;
+  text-align: center;
+}
